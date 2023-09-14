@@ -1,0 +1,25 @@
+body {
+    background-color: #88e7ff;
+    font-family: 'Inclusive Sans', sans-serif;
+    text-align: center;
+}
+
+.title {
+    font-size: 30px;
+    background-color: #88fbff;
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.piece{
+    background-color: #88fbff;
+    width: 10%;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 50px;
+    
+}
+div{
+    border-radius: 50px;
+}
