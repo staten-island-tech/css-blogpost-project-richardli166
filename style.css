@@ -6,7 +6,7 @@ body {
 
 .title {
     font-size: 30px;
-    background-color: #88fbff;
+    background-color: #00f7ff;
     width: 30%;
     margin: auto;
     padding: 10px;
@@ -26,7 +26,21 @@ body {
     padding: 20px;
     margin-bottom: 30px;
 }
-
+#tetris2{
+    background-color: #29E39E;
+}
+#tetris3{
+    background-color: #CF3BC1;
+}
+#piece1{
+    background-color: rgb(45, 146, 254);
+}
+#piece2{
+    background-color: #29E39E;
+}
+#piece3{
+    background-color: #CF3BC1;
+}
 div{
     border-radius: 50px;
 }
